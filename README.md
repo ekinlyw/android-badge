@@ -6,15 +6,15 @@ Screenshots
 ===============
 Captured from Samsung Galaxy S3
 
-![Captured from Samsung Galaxy S3](https://dl.dropboxusercontent.com/u/16783438/github/Badge/badge-s3.png)
+![Captured from Samsung Galaxy S3](https://user-images.githubusercontent.com/1778805/72220549-06e08c80-3595-11ea-9e2e-6bd10a6b54d0.png)
 
 Captured from Samsung Galaxy S4
 
-![Captured from Samsung Galaxy S4](https://dl.dropboxusercontent.com/u/16783438/github/Badge/badge-s4.png)
+![Captured from Samsung Galaxy S4](https://user-images.githubusercontent.com/1778805/72220550-08aa5000-3595-11ea-8b86-798464dddbf3.png)
 
 Captured from LG G3
 
-![Captured from LG G3](https://dl.dropboxusercontent.com/u/16783438/github/Badge/badge-g3.png)
+![Captured from LG G3](https://user-images.githubusercontent.com/1778805/72220551-09db7d00-3595-11ea-9d9f-ed576dcdf5db.png)
 
 
 API Usage
